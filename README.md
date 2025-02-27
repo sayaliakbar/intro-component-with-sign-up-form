@@ -30,8 +30,10 @@ Users should be able to:
 
 ### Screenshot
 
+**Desktop View**
 ![Intro Component Sign Up Page Desktop](https://github.com/user-attachments/assets/69ff3768-762a-47d4-9fe7-b99296358fc0)
 
+**Mobile View**
 ![Intro Component Sign Up Page Mobile](https://github.com/user-attachments/assets/cb65e59f-541b-493e-95ff-dfc7d8c316eb)
 
 ### Links
